@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/onsteroids/Scripts/Drones/BDrone.cs">
+    <Files>
+      <File FileName="Assets/onsteroids/Scripts/UI/BProgressBar.cs" Line="32" Column="32" />
+      <File FileName="Assets/onsteroids/Scripts/Drones/BDrone.cs" Line="113" Column="14" />
+      <File FileName="Assets/onsteroids/Scripts/Drones/InputDriver.cs" Line="18" Column="38" />
+      <File FileName="Assets/onsteroids/Scripts/Weapons/BImpulse.cs" Line="23" Column="1" />
+      <File FileName="Assets/onsteroids/Scripts/Drones/BDestructable.cs" Line="87" Column="1" />
+      <File FileName="Assets/onsteroids/Scripts/Asteroids/BAsteroid.cs" Line="32" Column="22" />
+      <File FileName="Assets/onsteroids/Scripts/Practice/BCanvasPractice.cs" Line="25" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
